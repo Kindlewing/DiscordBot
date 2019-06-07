@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotUI", "BotUI\BotUI.csproj", "{566DFC99-427E-4CD0-87B2-077D96891A07}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordLibrary", "..\..\..\Class Libraries\Projects\DiscordBotLibrary\DiscordLibrary\DiscordLibrary.csproj", "{4160869E-85BF-4D21-A14E-0047E921E4E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordLibrary", "..\..\..\Class Libraries\Projects\DiscordBotLibrary\DiscordLibrary\DiscordLibrary.csproj", "{695D799D-9189-44CC-845B-58C1C8CD7C67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{566DFC99-427E-4CD0-87B2-077D96891A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{566DFC99-427E-4CD0-87B2-077D96891A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{566DFC99-427E-4CD0-87B2-077D96891A07}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4160869E-85BF-4D21-A14E-0047E921E4E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4160869E-85BF-4D21-A14E-0047E921E4E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4160869E-85BF-4D21-A14E-0047E921E4E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4160869E-85BF-4D21-A14E-0047E921E4E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695D799D-9189-44CC-845B-58C1C8CD7C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695D799D-9189-44CC-845B-58C1C8CD7C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695D799D-9189-44CC-845B-58C1C8CD7C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695D799D-9189-44CC-845B-58C1C8CD7C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

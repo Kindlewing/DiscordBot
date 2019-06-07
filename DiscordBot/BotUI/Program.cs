@@ -1,12 +1,15 @@
-﻿using System;
+﻿using DiscordLibrary;
+using System.Threading.Tasks;
 
 namespace BotUI
 {
-	class Program
+	public class Program
 	{
-		private static void Main()
+		private static async Task Main()
 		{
-			
+			Connection connection = Injector.Resolve<Connection>();
+
+			await connection.ConnectAsync();
 		}
 	}
 }
