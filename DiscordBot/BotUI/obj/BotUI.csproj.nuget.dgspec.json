@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\BotUI\\BotUI.csproj": {}
+    "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\DiscordBot\\BotUI\\BotUI.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\BotUI\\BotUI.csproj": {
+    "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\DiscordBot\\BotUI\\BotUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\BotUI\\BotUI.csproj",
+        "projectUniqueName": "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\DiscordBot\\BotUI\\BotUI.csproj",
         "projectName": "BotUI",
-        "projectPath": "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\BotUI\\BotUI.csproj",
+        "projectPath": "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\DiscordBot\\BotUI\\BotUI.csproj",
         "packagesPath": "C:\\Users\\hkfin\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\BotUI\\obj\\",
+        "outputPath": "E:\\Visual Studio 2019\\C# Projects\\GitHub\\DiscordBot\\DiscordBot\\BotUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
