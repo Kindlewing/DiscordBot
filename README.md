@@ -7,6 +7,7 @@ The project is set up to use Dependency Injection. I am using the Unity Framewor
 
 The directory 'Providers,' contains all of the Factory classes. They provide the things necessary for the bot to work correctly. Each class returns a single object via a static Method 'GetDefault().' These, along with the Unity class, are hopefully going to be the only static classes in the entire project.
 
+All of the code lies within the DiscordLibrary project.
 # Overview of various classes
 ## Handler Classes
 ### CommandHandler
