@@ -1,6 +1,6 @@
 # Overview
 
-This project is a restart of a project that I worked on over Christmas break of this past year. I decided to restart it in order to make the code cleaning, and redo the process.
+This project is a restart of a project that I worked on over Christmas break of this past year. I decided to restart it in order to make the code cleaner, and redo the process.
 
 # Documentation
 The project is set up to use Dependency Injection. I am using the Unity Framework, which allows for easy integration. Along with DI, I also use a Factory Pattern to provide the various components of the bot, such as the Discord Client and Discord Web Socket.
